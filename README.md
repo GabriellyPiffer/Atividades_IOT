@@ -364,8 +364,9 @@ O Dashboard deveria apresentar pelo menos dois gráficos:
 - Um gráfico mostrando a atividade do portão diariamente.
 - Um gráfico mostrando a atividade do portão semanalmente.
 
-Os gráficos foram desenvolvidos com base no wireframe disponibilizado na atividade, utilizando os dados presentes no arquivo `dados.csv`.
-
+Os gráficos foram desenvolvidos com base no wireframe disponibilizado na atividade, utilizando os dados presentes no arquivo `dados.csv`.<br>
+Link para acesso:
+https://gabriellypiffer.github.io/Atividades_IOT/
 ### Wireframe
 
 ![Wireframe do Dashboard](./wirefreme/dashboard.png)
