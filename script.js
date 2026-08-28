@@ -59,7 +59,7 @@ async function iniciarDashboard() {
       datasets: [{
         label: "Aberturas por Dia",
         data: Object.values(diario),
-        backgroundColor: "#0077b6"
+        backgroundColor: "#ff89f9"
       }]
     }
   });
@@ -72,7 +72,7 @@ async function iniciarDashboard() {
       datasets: [{
         label: "Aberturas por Semana",
         data: Object.values(semanal),
-        borderColor: "#ff6f61",
+        borderColor: "#930582",
         fill: false
       }]
     }
