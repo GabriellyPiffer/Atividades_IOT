@@ -348,8 +348,8 @@ void loop() {
 ```
 ### Imagem do Tinkercad
 
+![Portas lógicas - Tinkercad](./Ativ%20Tinkercad/aula04.png)
 ![Portas lógicas - Tinkercad](./Ativ%20Tinkercad/aula04-pt2.png)
-
 ---
 ## Análise de Dados - Web UI
 
